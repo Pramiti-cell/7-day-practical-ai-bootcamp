@@ -65,3 +65,5 @@ streamlit run app.py
 - Using environment variables for configuration
 
 *This project is an educational resume improvement tool and is not an official recruitment or hiring system.*
+## Application Preview
+![Day 3 Resume Analyzer](images/day3_screenshot.png) 

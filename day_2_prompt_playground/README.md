@@ -20,3 +20,5 @@ streamlit run app.py
 ```
 
 Ensure Ollama is running and Llama 3.2 is installed.
+## Application Preview
+![Day 2 Prompt Playground](images/day2_screenshot.png) 

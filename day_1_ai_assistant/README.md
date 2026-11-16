@@ -18,3 +18,5 @@ streamlit run app.py
 ```
 
 Ensure Ollama is running and Llama 3.2 is installed.
+## Application Preview
+![Day 1 AI Assistant](images/day1_screenshot.png) 
